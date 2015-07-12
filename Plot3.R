@@ -1,3 +1,5 @@
+#Plot 3
+
 library(data.table)
 projectDir <- "./Project1"
 dataDir <- paste(projectDir,"data",sep="/")
